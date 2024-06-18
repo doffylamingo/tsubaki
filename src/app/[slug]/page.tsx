@@ -4,8 +4,8 @@ import Image from "next/image";
 import GroupList from "@/components/GroupList";
 import { data } from "@/data";
 
-export default function SongPage() {
-  const slug = "izone";
+export default function SongPage({ params }: { params: { slug: string } }) {
+  const slug = params.slug;
   const group = data.find((group) => group.slug === slug);
   const songs = group?.songs;
 
@@ -43,6 +43,7 @@ export default function SongPage() {
                   image={era.image}
                   album={era.album}
                   slug={era.slug}
+                  group={slug}
                 />
               ))}
             </div>
