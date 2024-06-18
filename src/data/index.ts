@@ -11,7 +11,7 @@ export const data = [
         name: " La Vie en Rose",
         slug: "la_vie_en_rose",
         album: "COLOR*IZ",
-        image: "/coloriz.jpg",
+        image: "/izone/album/coloriz.jpg",
         shows: [
           {
             id: 1,
@@ -183,7 +183,7 @@ export const data = [
         name: "O' My!",
         slug: "o_my",
         album: "COLOR*IZ",
-        image: "/coloriz.jpg",
+        image: "/izone/album/coloriz.jpg",
         shows: [
           {
             id: 1,
@@ -243,7 +243,7 @@ export const data = [
         name: "Violeta",
         slug: "violeta",
         album: "HEART*IZ",
-        image: "/heartiz.jpg",
+        image: "/izone/album/heartiz.jpg",
         shows: [
           {
             id: 1,
@@ -448,7 +448,7 @@ export const data = [
         name: "Up",
         slug: "up",
         album: "HEART*IZ",
-        image: "/heartiz.jpg",
+        image: "/izone/album/heartiz.jpg",
         shows: [
           {
             id: 1,
@@ -547,7 +547,7 @@ export const data = [
         name: "Really Like You",
         slug: "really_like_you",
         album: "HEART*IZ",
-        image: "/heartiz.jpg",
+        image: "/izone/album/heartiz.jpg",
         shows: [
           {
             id: 1,
@@ -582,7 +582,7 @@ export const data = [
         name: "Sukito Iwasetai",
         slug: "sukito_iwasetai",
         album: "Sukito Iwasetai",
-        image: "/sukitoiwasetai.jpg",
+        image: "/izone/album/sukitoiwasetai.jpg",
         shows: [
           {
             id: 1,
@@ -604,7 +604,7 @@ export const data = [
         name: "Highlight",
         slug: "highlight",
         album: "HEART*IZ",
-        image: "/heartiz.jpg",
+        image: "/izone/album/heartiz.jpg",
         shows: [
           {
             id: 1,
@@ -625,7 +625,7 @@ export const data = [
         name: "Spaceship",
         slug: "spaceship",
         album: "BLOOM*IZ",
-        image: "/bloomiz.jpg",
+        image: "/izone/album/bloomiz.jpg",
         shows: [
           {
             id: 1,
@@ -710,7 +710,7 @@ export const data = [
         name: "Hey. Bae. Like it.",
         slug: "hey_bae_like_it",
         album: "BLOOM*IZ",
-        image: "/bloomiz.jpg",
+        image: "/izone/album/bloomiz.jpg",
         shows: [
           {
             id: 1,
@@ -732,7 +732,7 @@ export const data = [
         name: "Ayayaya",
         slug: "ayayaya",
         album: "BLOOM*IZ",
-        image: "/bloomiz.jpg",
+        image: "/izone/album/bloomiz.jpg",
         shows: [
           {
             id: 1,
@@ -754,7 +754,7 @@ export const data = [
         name: "So Curious",
         slug: "so_curious",
         album: "BLOOM*IZ",
-        image: "/bloomiz.jpg",
+        image: "/izone/album/bloomiz.jpg",
         shows: [
           {
             id: 1,
@@ -776,7 +776,7 @@ export const data = [
         name: "Fiesta",
         slug: "fiesta",
         album: "BLOOM*IZ",
-        image: "/bloomiz.jpg",
+        image: "/izone/album/bloomiz.jpg",
         shows: [
           {
             id: 1,
@@ -951,7 +951,7 @@ export const data = [
         name: "Destiny",
         slug: "destiny",
         album: "BLOOM*IZ",
-        image: "/bloomiz.jpg",
+        image: "/izone/album/bloomiz.jpg",
         shows: [
           {
             id: 1,
@@ -972,7 +972,7 @@ export const data = [
         name: "Merry-Go-Round",
         slug: "merry_go_round",
         album: "Oneiric Diary",
-        image: "/oneiric.jpg",
+        image: "/izone/album/oneiric.jpg",
         shows: [
           {
             id: 1,
@@ -1007,7 +1007,7 @@ export const data = [
         name: "Pretty",
         slug: "pretty",
         album: "Oneiric Diary",
-        image: "/oneiric.jpg",
+        image: "/izone/album/oneiric.jpg",
         shows: [
           {
             id: 1,
@@ -1080,7 +1080,7 @@ export const data = [
         name: "Secret Story of the Swan",
         slug: "secret_story_of_the_swan",
         album: "Oneiric Diary",
-        image: "/oneiric.jpg",
+        image: "/izone/album/oneiric.jpg",
         shows: [
           {
             id: 1,
@@ -1294,7 +1294,7 @@ export const data = [
         name: "With*One",
         slug: "with_one",
         album: "Oneiric Diary",
-        image: "/oneiric.jpg",
+        image: "/izone/album/oneiric.jpg",
         shows: [
           {
             id: 1,
@@ -1342,7 +1342,7 @@ export const data = [
         name: "Panorama",
         slug: "Panorama",
         album: "One-reeler / Act IV",
-        image: "/onereeler.jpg",
+        image: "/izone/album/onereeler.jpg",
         shows: [
           {
             id: 1,
@@ -1442,7 +1442,7 @@ export const data = [
         name: "Sequence",
         slug: "sequence",
         album: "One-reeler / Act IV",
-        image: "/onereeler.jpg",
+        image: "/izone/album/onereeler.jpg",
         shows: [
           {
             id: 1,
