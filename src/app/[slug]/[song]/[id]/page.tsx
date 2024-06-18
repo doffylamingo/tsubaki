@@ -5,9 +5,9 @@ import YouTubePlayer from "@/components/YoutubePlayer";
 import LyricsDisplayer from "@/components/LyricsDisplayer";
 import { data } from "@/data";
 
-function findVideoById(shows, videoId) {
+function findVideoById(shows: any, videoId: any) {
   for (const show of shows) {
-    const foundVideo = show.videos.find((video) => video.id === videoId);
+    const foundVideo = show.videos.find((video: any) => video.id === videoId);
     if (foundVideo) {
       return foundVideo;
     }
